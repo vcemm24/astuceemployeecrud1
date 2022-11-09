@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "eid": 24,
+      "name": "vumisa",
+      "mobile": 84,
+      "email": "vcemm24@gmail.com",
+      "address": "nsele",
+      "salary": 8000,
+      "gender": "male",
+      "position": "angulardev",
+      "id": 1
+    },
+    {
+      "eid": 25,
+      "name": "meso",
+      "mobile": 85,
+      "email": "vcen@vcen.com",
+      "address": "nsele",
+      "salary": 9000,
+      "gender": "male",
+      "position": "laraveldev",
+      "id": 2
+    },
+    {
+      "eid": 27,
+      "name": "vcemm",
+      "mobile": 84,
+      "email": "test2@test2.com",
+      "address": "kinkole",
+      "salary": 12000,
+      "gender": "male",
+      "position": "laraveldev",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
